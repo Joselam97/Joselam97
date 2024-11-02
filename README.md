@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/Joselam97/Joselam97/blob/main/Banner.gif)
+![MasterHead](https://github.com/Joselam97/Joselam97/blob/main/descarga.gif)
 <h1 align="center">Hello World 🌍 I'm Jose Alvarez</h1>
 <h3 align="center">A passionate full-stack developer in progress from Costa Rica</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Joselam97/Joselam97/blob/main/Efecto.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Joselam97/Joselam97/blob/main/CTRL%2BZ.png">
 
 - 🌱 I’m currently learning **Java frameworks like J2EE, Hibernate, and JSF**
 
