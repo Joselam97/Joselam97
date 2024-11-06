@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer in progress from Costa Rica</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Joselam97/Joselam97/blob/main/Efecto.gif">
 
-- 🌱 I’m currently learning **Java frameworks like J2EE, Hibernate, and JSF**
+- 🌱 I’m currently learning **Java frameworks like Jakarta-EE, Hibernate, and JSF**
 
 - 💬 Ask me about **Java, JavaScript, HTML5, CSS, and Python projects**
 
