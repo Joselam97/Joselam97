@@ -4,13 +4,13 @@
 <h3 align="center">A passionate full-stack developer in progress from Costa Rica</h3>
 
 
-- 🌱 I’m currently learning **Java frameworks like Jakarta-EE, Hibernate, and JSF**
+- 🌱 I am currently working hard to thrive as a skilled **Full-Stack Developer**
 
-- 💬 Ask me about **Java, JavaScript, HTML5, CSS, and Python projects**
+- 💬 Focused on **personal growth** and pushing beyond my limits**
 
 - 📫 How to reach me **jlam97@hotmail.es**
 
-- 🎯 My Mindset **I’m always ready to tackle new challenges and continuously improve my skills.**
+- 🎯 **Always ready to tackle new challenges and continuously improve my skills.**
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Joselam97/Joselam97/blob/main/Efecto.gif">
 
