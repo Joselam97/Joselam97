@@ -6,7 +6,7 @@
 
 - 🌱 I am currently working hard to thrive as a skilled **Full-Stack Developer**
 
-- 💬 Focused on **personal growth** and pushing beyond my limits**
+- 💬 Focused on **personal growth** and pushing beyond my limits
 
 - 📫 How to reach me **jlam97@hotmail.es**
 
