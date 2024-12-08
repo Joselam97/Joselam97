@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jlam97@hotmail.es**
 
-- 🎯 **Always ready to tackle new challenges and continuously improve my skills.**
+- 🎯 **Always ready to tackle new **challenges** and continuously improve my **skills**
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Joselam97/Joselam97/blob/main/Efecto.gif">
 
